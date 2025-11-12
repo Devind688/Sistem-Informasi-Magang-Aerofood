@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devind688.github.io/Sistem-Informasi-Magang-Aerofood/sitemap.xml
